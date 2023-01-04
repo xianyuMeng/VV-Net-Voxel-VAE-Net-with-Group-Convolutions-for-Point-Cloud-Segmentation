@@ -4,6 +4,5 @@
 #### Authors : Hsien-Yu Meng, Lin Gao, Yu-Kun Lai, Dinesh Manocha 
 >This code repository is partially based on [PointNet][https://github.com/charlesq34/pointnet]
 
-## Coming Soon...
 
 
